@@ -10,13 +10,13 @@ from Mikobot import BOT_USERNAME, OWNER_ID, SUPPORT_CHAT
 
 # <============================================== CONSTANTS =========================================================>
 START_IMG = [
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://telegra.ph/file/86d8eddb9264ed67505b0.jpg",
-    "https://te.legra.ph/file/49059d553efa874c70cb3.jpg",
+    "https://te.legra.ph/file/f7d300d5fc85da9cbcb80.jpg",
+    "https://te.legra.ph/file/743e9557a0a9374c25e19.jpg",
+    "https://te.legra.ph/file/86e02e199ffb98ca6b9e0.jpg",
+    "https://te.legra.ph/file/aa39ec6a5b830d2f63745.jpg",
+    "https://te.legra.ph/file/db59cb9cf9262dadc5a64.jpg",
+    "https://te.legra.ph/file/563540ab6462a1c00f255.jpg",
+    "https://te.legra.ph/file/4bbea1b2dfbcf18964f73.jpg",
 ]
 
 HEY_IMG = "https://te.legra.ph/file/49059d553efa874c70cb3.jpg"
@@ -46,7 +46,7 @@ MUTE_GIFS = [
     "https://telegra.ph//file/b4faf6e390d72d286abdf.mp4",
 ]
 
-FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
+FIRST_PART_TEXT = "✨ *TOHOR_MAIKE_PRANAAM* `{}` . . ."
 
 PM_START_TEXT = "✨ *ɪ ᴀᴍ ˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼, ᴀ ɢᴇɴꜱʜɪɴ ɪᴍᴘᴀᴄᴛ ᴛʜᴇᴍᴇᴅ ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ*"
 
@@ -66,7 +66,7 @@ START_BTN = [
         InlineKeyboardButton(text="SOURCE", callback_data="git_source"),
     ],
     [
-        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="CREATOR", url=f"tg://user?id={OWNER_ID}"),,
     ],
 ]
 
@@ -85,8 +85,8 @@ GROUP_START_BTN = [
 
 ALIVE_BTN = [
     [
-        ib(text="UPDATES", url="https://t.me/ABOUT_SHIVANSHOP"),
-        ib(text="SUPPORT", url="https://t.me/mastiwithfriendsx"),
+        ib(text="UPDATES", url="https://t.me/DPZ_BY_CDX"),
+        ib(text="SUPPORT", url="https://t.me/DITTO_KA_YARANA"),
     ],
     [
         ib(
@@ -97,7 +97,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *˹ 𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰 ✘ 𝗥𝙾𝙱𝙾 ˼* 🫧
+🫧 *𝗕𝗥𝗔𝗠𝗛𝗔𝗦𝗧𝗥𝗔 𝗕𝗢𝗧* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
