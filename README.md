@@ -2,20 +2,8 @@
   <img src="https://telegra.ph/file/86d8eddb9264ed67505b0.jpg" width="600">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰+ダ+𝗥𝙾𝙱𝙾+」+──;THIS IS A BRAMHASTRA MANAGEMENT+MUSIC BOT.&width=600&height=180">
-</di
 
-# ⚙️ INSIDER
-
-- **Smart Moderation:** Advanced moderation tools for better control over your group
-- **Custom Commands:** Create custom commands to automate repetitive tasks
-- **Interactive UI:** A sleek and responsive user interface for an intuitive experience
-- **Fully Asynchronous**
-- **Python 3.11 Support**
-- **python-telegram-bot 20+**
-- **Telegram MTProto API Framework for Python**
-- **MongoDB, SQL are used as a database**
+**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
